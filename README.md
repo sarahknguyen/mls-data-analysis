@@ -27,7 +27,7 @@ This project analyzes real estate listing and sales data to identify trends in p
 - Highlighted regions with higher price per square foot
 
 ## Dashboard
-🔗 View Tableau Dashboard: [Insert your Tableau Public link here]
+🔗 View Tableau Dashboard: [in progress]
 
 ## Project Structure
 - data/
