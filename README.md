@@ -1,7 +1,7 @@
-# real-estate-listings-sales-analysis
+# mls-data-analysis
 Real estate data analysis using Python and Tableau to explore pricing trends, sales performance, and market insights.
 
-# 📊 Real Estate Listings & Sales Analysis
+# 📊 Real Estate MLS Listings & Sales Analysis
 
 ## Overview
 This project analyzes real estate listing and sales data to identify trends in pricing, market activity, and property characteristics. The goal is to uncover insights that support data-driven decisions in the housing market.
