@@ -1,4 +1,5 @@
-# mls-data-analysis
+# IDX Internship - Summer 2026
+## mls-data-analysis
 Real estate data analysis using Python and Tableau to explore pricing trends, sales performance, and market insights.
 
 # 📊 Real Estate MLS Listings & Sales Analysis
@@ -10,9 +11,8 @@ This project analyzes real estate listing and sales data to identify trends in p
 - IDX Exchange (CRMLS real estate data)
 
 ## Tools Used
-- Python (pandas, numpy)
+- Python (pandas, numpy, glob, matplolib, seaborn)
 - Tableau
-- Excel
 
 ## Key Analysis
 - Price trends over time
@@ -27,9 +27,8 @@ This project analyzes real estate listing and sales data to identify trends in p
 - Highlighted regions with higher price per square foot
 
 ## Dashboard
-🔗 View Tableau Dashboard: [in progress]
+🔗 [View Tableau Dashboard #1](./Competitive Analysis.png)
+🔗 [View Tableau Dashboard #2](./Market Analysis.png)
 
-## Project Structure
-- data/
-- scripts/
-- dashboard.png
+## California Residential Housing Market Intelligence Report
+📄 [View PDF Report](./California Residential Housing Market Intelligence Report.pdf)
