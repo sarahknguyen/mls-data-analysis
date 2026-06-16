@@ -27,8 +27,11 @@ This project analyzes real estate listing and sales data to identify trends in p
 - Highlighted regions with higher price per square foot
 
 ## Dashboard
-🔗 [View Tableau Dashboard #1](./Competitive Analysis.png)
-🔗 [View Tableau Dashboard #2](./Market Analysis.png)
+
+🔗 [View Tableau Dashboard #1](./Competitive%20Analysis.png)
+
+🔗 [View Tableau Dashboard #2](./Market%20Analysis.png)
 
 ## California Residential Housing Market Intelligence Report
-📄 [View PDF Report](./California Residential Housing Market Intelligence Report.pdf)
+
+📄 [View PDF Report](./California%20Residential%20Housing%20Market%20Intelligence%20Report.pdf)
